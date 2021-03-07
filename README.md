@@ -1,2 +1,2 @@
-# JSProject-CATCH_ME
+# JSProject
 Webschool project
